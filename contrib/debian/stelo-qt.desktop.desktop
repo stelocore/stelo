@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Stelo
+Comment=Stelo P2P Cryptocurrency
+Exec=stelo-qt %u
+Terminal=false
+Type=Application
+Icon=stelo128
+MimeType=x-scheme-handler/stelo;
+Categories=Office;Finance;
+Name[en_US]=stelo-qt.desktop

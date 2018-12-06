@@ -1,0 +1,6 @@
+usr/local/bin/stelo-qt usr/bin
+share/pixmaps/stelo32.xpm usr/share/pixmaps
+share/pixmaps/stelo16.xpm usr/share/pixmaps
+share/pixmaps/stelo128.png usr/share/pixmaps
+debian/stelo-qt.desktop usr/share/applications
+debian/stelo-qt.protocol usr/share/kde4/services/

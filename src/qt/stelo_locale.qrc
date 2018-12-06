@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/stelo_bg.qm</file>
+        <file alias="de">locale/stelo_de.qm</file>
+        <file alias="en">locale/stelo_en.qm</file>
+        <file alias="es">locale/stelo_es.qm</file>
+        <file alias="fi">locale/stelo_fi.qm</file>
+        <file alias="fr">locale/stelo_fr.qm</file>
+        <file alias="it">locale/stelo_it.qm</file>
+        <file alias="ja">locale/stelo_ja.qm</file>
+        <file alias="pl">locale/stelo_pl.qm</file>
+        <file alias="pt">locale/stelo_pt.qm</file>
+        <file alias="ru">locale/stelo_ru.qm</file>
+        <file alias="sk">locale/stelo_sk.qm</file>
+        <file alias="sv">locale/stelo_sv.qm</file>
+        <file alias="vi">locale/stelo_vi.qm</file>
+        <file alias="zh_CN">locale/stelo_zh_CN.qm</file>
+        <file alias="zh_TW">locale/stelo_zh_TW.qm</file>
+    </qresource>
+</RCC>
