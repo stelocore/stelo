@@ -5,14 +5,14 @@ Stelo Core v0.12.2.4 (STL)
 
 `master:` [![Build Status](https://travis-ci.org/stelocore/stelo.svg?branch=master)](https://travis-ci.org/stelocore/stelo)
 
-https://www.stelo.site
+http://www.stelo.site
 
 What is Stelo?
 ----------------
 
 Stelo (STL) is an innovative cryptocurrency. A form of digital currency secured by cryptography and issued through a decentralized and advanced mining market. Based on Dash, it's an enhanced and further developed version, featuring the masternode technology with 50% Reward, near-instant and secure payments as well as anonymous transactions. Stelo has great potential for rapid growth and expansion. Based on a total Proof of Work and Masternode system, it is accesible to everyone, it ensures a fair and stable return of investment for the Graphics Processing Units (GPUs) miners and the Masternode holders.
 
-Additional information, wallets, specifications & roadmap: https://bitcointalk.org/index.php?topic=
+Additional information, wallets, specifications & roadmap: https://bitcointalk.org/index.php?topic=5081186
 
 License
 -------
