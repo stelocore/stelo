@@ -1,6 +1,6 @@
 ![GitHub Logo](https://raw.githubusercontent.com/stelocore/stelo/master/share/pixmaps/stelo128.png "Stelo")
 
-Stelo Core v0.12.2.5 (STL)
+Stelo Core v0.12.2.6 (STL)
 ===============================
 
 `master:` [![Build Status](https://travis-ci.org/stelocore/stelo.svg?branch=master)](https://travis-ci.org/stelocore/stelo)
